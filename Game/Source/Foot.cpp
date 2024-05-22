@@ -40,7 +40,7 @@ void Foot::pause()
     int choice;
     cout << "1- pour restart" << endl;
     cout << "2- pour play" << endl;
-    cout << "2- pour quitter" << endl;
+    cout << "3- pour quitter" << endl;
     cin >> choice;
     switch(choice)
     {
